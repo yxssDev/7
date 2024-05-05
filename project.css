@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background-color: rgb(44, 44, 44);
+}
+div img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(3, 56, 3);
+}
+.container {
+    text-align: center;
+}
+h3:hover {
+    color: yellowgreen
+}
+p:hover {
+    color: yellowgreen
+}
